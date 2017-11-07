@@ -3,13 +3,13 @@ body {
 }
 
 div.container {
-background-color: #ffffff;
-display: grid;
-grid-template-columns: 2fr 1fr;
-grid-template-areas:
-"header header"
-"main   aside"
-"footer footer";
+  background-color: #ffffff;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-template-areas:
+    "header header"
+    "main   aside"
+    "footer footer";
 
 margin-left: auto;
 margin-right: auto;
